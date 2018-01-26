@@ -1,2 +1,2 @@
-console.log('ciao');
-console.log('ciao2');
+console.log('1985 alternativo');
+console.log('almanacco a bif tunner');
